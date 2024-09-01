@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Turner-Kendall
 - 👀 I’m interested in Dev, Opps, Sec.
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on something special
+- 💞️ I’m looking for full time employment
 - 📫 How to reach me tk@turnerkendall.com
 
 <!---
